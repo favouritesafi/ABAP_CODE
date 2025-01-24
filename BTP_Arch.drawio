@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JDoRxErQ1rkVGuBzrIDf-15" value="Cloud Foundry" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="920" height="710" as="geometry" />
+        <mxCell id="JDoRxErQ1rkVGuBzrIDf-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="920" height="710" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-16" value="BTP" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;part=1;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
           <mxGeometry width="110" height="40" relative="1" as="geometry">
@@ -16,25 +16,31 @@
           <mxGeometry x="11.08" y="120" width="897.83" height="438.69" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
-          <mxGeometry x="40" y="120" width="230" height="250" as="geometry" />
+          <mxGeometry x="40" y="220" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;part=1;verticalAlign=top;align=left;fontSize=16;fontStyle=1;spacingLeft=10;spacingTop=10;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-19">
-          <mxGeometry x="10.147058823529413" y="54.6875" width="209.70588235294122" height="179.6875" as="geometry" />
+          <mxGeometry x="11.911764705882355" y="61.25000000000001" width="246.17647058823536" height="201.25000000000003" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-21" value="SAP Build Work Zone&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;BTP Service&lt;/font&gt;&lt;/span&gt;" style="shape=mxgraph.sap.icon;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Build_Work_Zone_-_Standard_Edition;fontSize=16;fontStyle=1;html=1;spacingLeft=10;spacing=0;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-19">
-          <mxGeometry x="18.94117647058824" y="10.9375" width="11.146153846153846" height="11.146153846153846" as="geometry" />
+          <mxGeometry x="22.235294117647065" y="12.250000000000002" width="12.483692307692309" height="12.483692307692309" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-34" value="&lt;font color=&quot;#0070f2&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Chat Application&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-19">
-          <mxGeometry x="31.14772893772894" y="152.17505720823797" width="150" height="30" as="geometry" />
+          <mxGeometry x="36.56472527472528" y="170.43606407322653" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-58" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_AI_Core" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
-          <mxGeometry x="740" y="100" width="138" height="138" as="geometry" />
+          <mxGeometry x="730" y="150" width="138" height="138" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-59" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
-          <mxGeometry x="460" y="390" width="50" height="50" as="geometry" />
+          <mxGeometry x="680" y="390" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-60" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_BTP,_Cloud_Foundry_runtime" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
-          <mxGeometry x="570" y="12" width="88" height="88" as="geometry" />
+          <mxGeometry x="710" y="12" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="JDoRxErQ1rkVGuBzrIDf-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Cloud Foundry&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
+          <mxGeometry x="740" y="20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDoRxErQ1rkVGuBzrIDf-63" value="&lt;font color=&quot;#0070f2&quot; face=&quot;arial&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Identity Authentication Service&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1d2d3e;fontFamily=Helvetica;" vertex="1" parent="JDoRxErQ1rkVGuBzrIDf-15">
+          <mxGeometry x="660" y="300" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-36" value="" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="1500" y="62" width="160" height="210" as="geometry" />
@@ -155,9 +161,6 @@
         </mxCell>
         <mxCell id="JDoRxErQ1rkVGuBzrIDf-56" value="SAML2/OIDC" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#188918;strokeWidth=1.5;arcSize=16;fillColor=#F5FAE5;perimeterSpacing=0;absoluteArcSize=1;fontColor=#188918;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1288" y="574" width="70" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="JDoRxErQ1rkVGuBzrIDf-61" value="&lt;font face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Big Name&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="840" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
